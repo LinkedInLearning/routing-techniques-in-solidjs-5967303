@@ -1,0 +1,4 @@
+<A href="/company" activeClass="active-links" end>Home</A> | 
+<A href="/company/about" activeClass="active-links">About</A> | 
+<A href="/company/services" activeClass="active-links">Categories</A> | 
+<A href="/company/staff" activeClass="active-links">Staff</A>
